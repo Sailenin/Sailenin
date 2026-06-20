@@ -4,7 +4,9 @@
 <p>
 
   <!-- Salesforce -->
-<img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="42" height="42" />
+<a target="_blank" href="https://www.salesforce.com/" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="42" height="42" />
+</a>
 
 <!-- Trailhead -->
 <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" height="28" />

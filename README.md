@@ -5,7 +5,7 @@
 
   <!-- Salesforce -->
 <a target="_blank" href="https://www.salesforce.com/" style="display: inline-block;">
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="42" height="42" />
+  <img src="[https://cdn.simpleicons.org/salesforce/00A1E0](https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/...)" alt="Salesforce" width="42" height="42" />
 </a>
 
 <!-- Trailhead -->

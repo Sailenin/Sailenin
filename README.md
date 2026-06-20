@@ -3,25 +3,20 @@
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 
-  <a target="_blank" href="https://www.salesforce.com/" style="display: inline-block;">
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="salesforce" width="42" height="42" />
-</a>
+  <!-- Salesforce -->
+<img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" width="42" height="42" />
 
-<a target="_blank" href="https://developer.salesforce.com/docs/platform/lwc" style="display: inline-block;">
-  <img src="https://cdn.simpleicons.org/lightning/792EE5" alt="lightning web components" width="42" height="42" />
-</a>
+<!-- Trailhead -->
+<img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" height="28" />
 
-<a target="_blank" href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" style="display: inline-block;">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="apex" width="42" height="42" />
-</a>
+<!-- Apex -->
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" height="28" />
 
-<a target="_blank" href="https://developer.salesforce.com/" style="display: inline-block;">
-  <img src="https://cdn.simpleicons.org/salesforce/1798C1" alt="salesforce developer" width="42" height="42" />
-</a>
+<!-- Lightning Web Components -->
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components" height="28" />
 
-<a target="_blank" href="https://trailhead.salesforce.com/" style="display: inline-block;">
-  <img src="https://cdn.simpleicons.org/salesforce/0176D3" alt="trailhead" width="42" height="42" />
-</a>
+<!-- Salesforce Developer -->
+<img src="https://img.shields.io/badge/Salesforce_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Developer" height="28" />
   
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>

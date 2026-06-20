@@ -1,7 +1,29 @@
 <h1>Hi 👋, I'm Sai Lenin</h1>
 <p>A passionate developer from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<p>
+
+  <a target="_blank" href="https://www.salesforce.com/" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="salesforce" width="42" height="42" />
+</a>
+
+<a target="_blank" href="https://developer.salesforce.com/docs/platform/lwc" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/lightning/792EE5" alt="lightning web components" width="42" height="42" />
+</a>
+
+<a target="_blank" href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="apex" width="42" height="42" />
+</a>
+
+<a target="_blank" href="https://developer.salesforce.com/" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/salesforce/1798C1" alt="salesforce developer" width="42" height="42" />
+</a>
+
+<a target="_blank" href="https://trailhead.salesforce.com/" style="display: inline-block;">
+  <img src="https://cdn.simpleicons.org/salesforce/0176D3" alt="trailhead" width="42" height="42" />
+</a>
+  
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
